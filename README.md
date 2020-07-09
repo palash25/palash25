@@ -5,6 +5,7 @@
 - These days I am learning Rust and Elixir
 - Other languages that interests me and I would like to learn someday are Zig, Pony, Clojure, Erlang, Nim, Haskell, Scala, Lua, Ocaml, F# and Julia.
 - Besides programming languages I am also studying databases and distributed systems in general.
+- WASM also seems cool and is on my list of things to learn
 
 <!--
 **palash25/palash25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
