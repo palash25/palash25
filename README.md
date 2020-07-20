@@ -1,6 +1,6 @@
-### Hello Hello 👋
+### Hello 👋
 
-- I am Palash, I work as a Backend Engineer at [Percona](https://www.percona.com/) on [PMM](https://www.percona.com/software/database-tools/percona-monitoring-and-management)
+- I work as a Backend Engineer at [Percona](https://www.percona.com/) on [PMM](https://www.percona.com/software/database-tools/percona-monitoring-and-management)
 - I mostly write Go (before which I used to do a little Python and Ruby) but being a programming language enthusiast I am constantly playing around with other languages.
 - These days I am learning Rust and Elixir
 - Other languages that interests me and I would like to learn someday are Zig, Pony, Clojure, Erlang, Nim, Haskell, Scala, Lua, Ocaml, F#, Racket/Common Lisp and Julia.
