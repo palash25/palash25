@@ -7,4 +7,4 @@
 - Besides programming languages I am also studying databases and distributed systems in general.
 - [WASM](https://webassembly.org/) also seems cool and is on my list of things to learn
 - Pronouns: He/Him
-- 📫 How to reach me: Besides Twitter I am pretty active on [Linkedin](https://www.linkedin.com/in/palash25) feel free to DM me if you have any questions
+- 📫 How to reach me: Besides Twitter I am on [Linkedin](https://www.linkedin.com/in/palash25) (though not very active) feel free to DM me if you have any questions
